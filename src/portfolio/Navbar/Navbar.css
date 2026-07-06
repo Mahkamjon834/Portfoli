@@ -1,0 +1,94 @@
+.navbar {
+  width: 100%;
+  height: 500px;
+  display: flex;
+}
+
+.h1 {
+  font-size: 17px;
+  color: rgb(255, 255, 255);
+}
+
+.text {
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav1 {
+  background-color: #D7D7D7;
+  width: 50%;
+  height: 650px;
+}
+
+.nav2 {
+  width: 50%;
+  height: 650px;
+  background-color: black;
+
+
+}
+
+.img {
+  margin-top: 2%;
+  margin-left: 25%;
+}
+
+.hi {
+
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 40px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: bottom;
+  margin-left: -35%;
+
+}
+
+.tom {
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 80px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-left: 5%;
+}
+
+.er {
+  color: #909090;
+  font-family: Raleway;
+  font-weight: 800;
+  font-size: 25px;
+  leading-trim: NONE;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-left: -5%;
+  margin-top: -5%;
+}
+
+.btn1,
+.btn2,
+.btn3 {
+  width: 56px;
+  height: 51px;
+  top: 726px;
+  left: 271px;
+  angle: 0 deg;
+  opacity: 1;
+  background-color: #C4C4C4;
+  border: none;
+
+}
+
+.btn {
+  margin-left: 25%;
+}
+
+.btn2,.btn3 {
+  margin-left: 2%;
+}
