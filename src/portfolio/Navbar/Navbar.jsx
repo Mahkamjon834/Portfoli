@@ -6,6 +6,7 @@ import men from '../../assets/image.png'
 
 function Navbar() {
   return (
+<>
     <div className="navbar">
       <div className="nav1">
         <div className="img1">
@@ -37,6 +38,12 @@ function Navbar() {
         </div>
       </div>
     </div>
+          <div className="textlar"><br /> <br /> <br />
+        <h1 className='nulla'>IT BERRIES</h1>
+        <p className='it'>Nulla in velit a metus rhoncus tempus. Nulla congue nulla vel sem varius finibus. Sed ornare sit amet lorem sed viverra. In vel urna quis libero viverra facilisis ut ac <br /> est. Morbi commodo, eros in dignissim tempus, lacus odio rutrum augue, in semper sem magna quis tellus. Etiam enim erat, suscipit eu semper a, dictum sit amet <br />elit. Nunc egestas nisi eget enim gravida facilisis. Pellentesque laoreet varius turpis vel pharetra. Ut ante justo, consequat vitae elementum tempor, accumsan nec <br /> eros. </p>
+        <h1 className='read'>READ MORE</h1>
+      </div>
+</>
   )
 }
 
